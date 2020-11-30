@@ -1,4 +1,5 @@
 ### Hi there 👋
+Programmermager means LazyProgrammer, Lazy here is more to Chill
 
 <!--
 **programmermager/programmermager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
